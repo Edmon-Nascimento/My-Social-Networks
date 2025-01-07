@@ -15,3 +15,24 @@ main{
     background: url('../images/fundo.jpg');
     background-size: cover;
 }
+
+section#fone{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 300px;
+    height: 600px;
+    background: url('../images/frame-iphone.png');
+    background-size: cover;
+}
+
+section#social{
+    text-align: right;
+}
+
+section#social img{
+    border-radius: 50%;
+    width: 80px;
+    padding: 10px;
+}
