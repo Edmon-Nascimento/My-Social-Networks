@@ -5,12 +5,13 @@ section#social{
 }
 
 section#social span#menu-burguer{
-    display: block;
-    padding: 10px;
+    display: inline-block;
+    padding: 20px;
+    cursor: pointer;
 }
 
 section#social span#menu-burguer:hover{
-    cursor: pointer;
+    color: white;
 }
 
 menu#itens{

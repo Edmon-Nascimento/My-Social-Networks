@@ -40,14 +40,14 @@ section#social img{
     width: 80px;
     margin: 10px;
     box-sizing: border-box;
-    box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.3);
+    box-shadow: -2px 5px 5px rgba(0, 0, 0, 0.3);
 }
 
 section#social img:hover{
     border: 2px solid white;
-    transform: translate(-3px, -3px);
+    transform: translate(3px, -3px);
     transition: transform 0.3s, border 0.3s;
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    box-shadow: -5px 5px 5px rgba(0, 0, 0, 0.5);
 }
 
 iframe{
