@@ -27,8 +27,12 @@ section#fone{
     background-size: cover;
 }
 
-section#social{
-    text-align: right;
+menu{
+    padding: 50px;
+}
+
+section#social span#menu-burguer{
+    display: none;
 }
 
 section#social img{

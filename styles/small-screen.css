@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+section#social{
+    text-align: left;
+}
+
+section#social span#menu-burguer{
+    display: block;
+    padding: 10px;
+}
+
+section#social span#menu-burguer:hover{
+    cursor: pointer;
+}
+
+menu#itens{
+    padding: 0;
+    z-index: 2;
+    position: relative;
+    width: 130px;
+}
